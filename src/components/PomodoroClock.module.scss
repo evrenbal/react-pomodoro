@@ -1,0 +1,19 @@
+.pomodoro-app {
+  width: 100vw;
+  height: 100vh;
+  padding-top: 1rem;
+  background-color: rgb(var(--color-primary));
+  transition: background-color 0.5s ease-in-out;
+  text-align: center;
+
+  .pomodoro-header {
+    @apply inline-flex justify-center text-white flex-col self-center;
+    font-size: 1rem;
+  }
+
+  .pomodoro-timer {
+    font-size: 4rem;
+    margin: 3rem auto;
+    width: 20rem;
+  }
+}

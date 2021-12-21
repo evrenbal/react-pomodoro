@@ -1,0 +1,38 @@
+@import 'sass/tailwind';
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@400;600;800&display=swap');
+
+$color-session: 200, 80, 80;
+$color-shortbreak: 75, 150, 150;
+$color-longbreak: 70, 125, 165;
+
+:root {
+  --color-session:    #{$color-session};
+  --color-shortbreak: #{$color-shortbreak};
+  --color-longbreak:  #{$color-longbreak};
+}
+
+.timertype-1 {
+  --color-primary: #{$color-session};
+  --color-secondary: 140,35,35;
+}
+.timertype-2 {
+  --color-primary: #{$color-shortbreak};
+  --color-secondary: 40,100,100;
+}
+.timertype-3 {
+  --color-primary: #{$color-longbreak};
+  --color-secondary: 25,85,130;
+}   
+
+body {
+  margin: 0;
+  font-family: 'Montserrat Alternates', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
