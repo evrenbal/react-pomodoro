@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/pomodoro-react/static/css/main.5df91ab3.css",
-    "main.js": "/pomodoro-react/static/js/main.104058a3.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/pomodoro-react/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/pomodoro-react/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/pomodoro-react/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/pomodoro-react/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/pomodoro-react/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/pomodoro-react/index.html",
-    "main.5df91ab3.css.map": "/pomodoro-react/static/css/main.5df91ab3.css.map",
-    "main.104058a3.js.map": "/pomodoro-react/static/js/main.104058a3.js.map"
+    "main.css": "/react-pomodoro/static/css/main.434eacd4.css",
+    "main.js": "/react-pomodoro/static/js/main.104058a3.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/react-pomodoro/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/react-pomodoro/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/react-pomodoro/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/react-pomodoro/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/react-pomodoro/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/react-pomodoro/index.html",
+    "main.434eacd4.css.map": "/react-pomodoro/static/css/main.434eacd4.css.map",
+    "main.104058a3.js.map": "/react-pomodoro/static/js/main.104058a3.js.map"
   },
   "entrypoints": [
-    "static/css/main.5df91ab3.css",
+    "static/css/main.434eacd4.css",
     "static/js/main.104058a3.js"
   ]
 }
